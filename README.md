@@ -27,7 +27,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/KamalABO/cloud-hosting.git
 ```
 
 ### 2. Install dependencies
